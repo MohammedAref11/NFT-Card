@@ -63,7 +63,7 @@ body {
   background-color: var(--Blue-900-card-bg);
   padding: 1.6rem;
   border-radius: 15px;
-  box-shadow: 15px 15px 20px black;
+  box-shadow: 15px 15px 20px hsla(0, 0%, 0%, 0.4);
 }
 
 .card__cube-image { 
